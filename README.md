@@ -45,6 +45,7 @@ Our dataset is distributed in json format. Here's an example:
 ## License 许可协议
 
 - the Creative Commons Attribution 4.0 International (CC BY 4.0) , which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+  知识共享署名4.0国际版，允许在任何媒体上不受限制地使用、分发和复制，前提是正确引用我们的作品。
 
 
 
@@ -52,4 +53,4 @@ Our dataset is distributed in json format. Here's an example:
 
 Potential uses include, but are not limited to: 1) Comparative Studies: Researchers can leverage the dataset to compare results across different models, thereby fostering innovation and advancements in the field. 2) Benchmarking: The dataset serves as a robust benchmark for evaluating new algorithms. 3) Training model: Researchers can leverage the dataset to fine-tune and train ambiguity detectors, etc.
 
-潜在用途包括但不限于：1）比较研究：研究人员可以利用数据集比较不同模型的结果，从而促进该领域的创新和进步。 2）基准测试：该数据集可作为评估新算法的可靠基准。3) 训练模型：研究人员可以利用数据集微调训练出歧义检测器等等
+潜在用途包括但不限于：1）比较研究：研究人员可以利用数据集比较不同模型的结果，从而促进该领域的创新和进步。 2）基准测试：该数据集可作为评估新算法的可靠基准。3) 训练模型：研究人员可以利用数据集微调训练出歧义检测器等等。
